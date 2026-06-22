@@ -1,0 +1,14 @@
+[project]
+name = "llm-zoomcamp"
+version = "0.1.0"
+description = "LLM Zoomcamp 2026 Agentic RAG homework using Qwen and Jupyter"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gitsource",
+    "jupyter",
+    "minsearch",
+    "openai",
+    "python-dotenv",
+    "requests",
+]
