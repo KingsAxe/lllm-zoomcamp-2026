@@ -1,4 +1,4 @@
-## LLM Zoomcamp 2026 Homework
+# LLM Zoomcamp 2026 Homework
 
 This repository contains my work for the LLM Zoomcamp 2026 Agentic RAG homework.
 
