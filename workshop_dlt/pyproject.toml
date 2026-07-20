@@ -1,0 +1,18 @@
+[project]
+name = "workshop-dlt"
+version = "0.1.0"
+description = "LLM Zoomcamp 2026 dlt workshop homework"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dlt[duckdb]",
+    "duckdb",
+    "jupyter>=1.1.1",
+    "logfire",
+    "minsearch",
+    "openai>=1.99.0",
+    "pandas",
+    "pydantic-ai",
+    "python-dotenv>=1.0.1",
+    "requests",
+]
